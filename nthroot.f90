@@ -13,7 +13,7 @@ program nthroot
 	integer, parameter :: out_unit = 20
 	
 	!create and open text file to write results to
-	open (unit = out_unit, file = "results.txt", action = "write", status = "replace")
+	open (unit = out_unit, file = "nth_root_results.txt", action = "write", status = "replace")
 	
 	!initial guess is 1
 	guess = 0.0

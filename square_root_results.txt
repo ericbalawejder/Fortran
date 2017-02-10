@@ -1,0 +1,14 @@
+The next value is:  31316.759766
+The next value is:  15659.379883
+The next value is:   7831.689941
+The next value is:   3919.843750
+The next value is:   1967.911011
+The next value is:    999.868958
+The next value is:    531.254883
+The next value is:    324.575134
+The next value is:    258.771423
+The next value is:    250.404724
+The next value is:    250.264938
+The next value is:    250.264893
+The squareroot of   62632.52 is 250.264893
+The total number of guesses is: 12

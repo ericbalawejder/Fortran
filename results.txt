@@ -1,3 +1,125 @@
+The next value is:      0.750000
+The next value is:      0.708333
+The next value is:      0.707108
+The next value is:      0.707107
+The squareroot of       0.50 is   0.707107
+The total number of guesses is:  4
+
+
+The next value is:      1.000000
+The squareroot of       1.00 is   1.000000
+The total number of guesses is:  1
+
+
+The next value is:     50.500000
+The next value is:     26.240099
+The next value is:     15.025530
+The next value is:     10.840435
+The next value is:     10.032578
+The next value is:     10.000053
+The next value is:     10.000000
+The squareroot of     100.00 is  10.000000
+The total number of guesses is:  7
+
+
+The next value is:     75.500000
+The next value is:     38.743378
+The next value is:     21.307503
+The next value is:     14.173638
+The next value is:     12.378332
+The next value is:     12.248140
+The next value is:     12.247449
+The next value is:     12.247449
+The squareroot of     150.00 is  12.247449
+The total number of guesses is:  8
+
+
+The next value is:   2500.500000
+The next value is:   1251.249756
+The next value is:    627.622864
+The next value is:    317.794708
+The next value is:    166.764069
+The next value is:     98.373276
+The next value is:     74.600044
+The next value is:     70.812065
+The next value is:     70.710754
+The next value is:     70.710678
+The squareroot of    5000.00 is  70.710678
+The total number of guesses is: 10
+
+
+The next value is:  31316.759766
+The next value is:  15659.379883
+The next value is:   7831.689941
+The next value is:   3919.843750
+The next value is:   1967.911011
+The next value is:    999.868958
+The next value is:    531.254883
+The next value is:    324.575134
+The next value is:    258.771423
+The next value is:    250.404724
+The next value is:    250.264938
+The next value is:    250.264893
+The squareroot of   62632.52 is 250.264893
+The total number of guesses is: 12
+
+
+The next value is:     11.666667
+The next value is:      7.858594
+The next value is:      5.417179
+The next value is:      3.986293
+The next value is:      3.349765
+The next value is:      3.213488
+The next value is:      3.207545
+The next value is:      3.207534
+The nthroot =  3 of     33.00 is   3.207534
+The total number of guesses is:  8
+
+
+The next value is:    564.500000
+The next value is:    423.375000
+The next value is:    317.531250
+The next value is:    238.148453
+The next value is:    178.611389
+The next value is:    133.958649
+The next value is:    100.469223
+The next value is:     75.352470
+The next value is:     56.515671
+The next value is:     42.389877
+The next value is:     31.799809
+The next value is:     23.867388
+The next value is:     17.942005
+The next value is:     13.554110
+The next value is:     10.391981
+The next value is:      8.296318
+The next value is:      7.209496
+The next value is:      6.911551
+The next value is:      6.891160
+The next value is:      6.891069
+The nthroot =  4 of   2255.00 is   6.891069
+The total number of guesses is: 20
+
+
+The next value is:     30.400000
+The next value is:     24.320034
+The next value is:     19.456112
+The next value is:     15.565096
+The next value is:     12.452581
+The next value is:      9.963296
+The next value is:      7.973640
+The next value is:      6.386235
+The next value is:      5.126784
+The next value is:      4.144273
+The next value is:      3.415764
+The next value is:      2.950052
+The next value is:      2.750858
+The next value is:      2.717601
+The next value is:      2.716767
+The next value is:      2.716767
+The nthroot =  5 of    148.00 is   2.716767
+The total number of guesses is: 16
+
+
 The next value is:    872.705017
 The next value is:    727.254150
 The next value is:    606.045105
