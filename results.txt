@@ -1,0 +1,36 @@
+The next value is:    872.705017
+The next value is:    727.254150
+The next value is:    606.045105
+The next value is:    505.037598
+The next value is:    420.864655
+The next value is:    350.720551
+The next value is:    292.267120
+The next value is:    243.555939
+The next value is:    202.963287
+The next value is:    169.136078
+The next value is:    140.946732
+The next value is:    117.455612
+The next value is:     97.879677
+The next value is:     81.566399
+The next value is:     67.972000
+The next value is:     56.643333
+The next value is:     47.202778
+The next value is:     39.335651
+The next value is:     32.779720
+The next value is:     27.316456
+The next value is:     22.763771
+The next value is:     18.969952
+The next value is:     15.808648
+The next value is:     13.174757
+The next value is:     10.981161
+The next value is:      9.156427
+The next value is:      7.643902
+The next value is:      6.403329
+The next value is:      5.417096
+The next value is:      4.701151
+The next value is:      4.297318
+The next value is:      4.176027
+The next value is:      4.166515
+The next value is:      4.166461
+The nthroot =  6 of   5231.23 is   4.166461
+The total number of guesses is: 34
